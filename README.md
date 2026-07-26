@@ -1,6 +1,6 @@
 ### Hi, I'm Pedrocia De-Sosoo 👋
 
-I'm a Computer Science student with a minor in Management Information Systems at RIT turning data into decisions. I use analytics to find what's true and product thinking to decide what to build next. Currently building toward a career as a **Product Manager grounded in data science and analytics**.
+I'm a Computer Science student with a minor in Management Information Systems at RIT turning data into decisions. I use analytics to find what's true and product thinking to decide what to build next. Currently building toward a career as a Product Manager grounded in data science and analytics.
 
 **What I've been doing:**
 - 🔬 Research Intern @ **Brookhaven National Laboratory**: Built simulation tools in Geant4 and ran EDA on large-scale detector datasets to inform experimental strategy
