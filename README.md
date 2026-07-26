@@ -5,8 +5,8 @@ I'm a Computer Science student with a minor in Management Information Systems at
 **What I've been doing:**
 - 🔬 Research Intern @ **Brookhaven National Laboratory**: Built simulation tools in Geant4 and ran EDA on large-scale detector datasets to inform experimental strategy
 - 📊 Data Analytics & Application Developer Intern: Automated data pipelines (↓90% processing time) and shipped a data visualization platform (↑80% data accessibility).
-- 🤖 **Breakthrough Tech AI/ML Fellow** @ Cornell Tech: Building industry-level ML models and predictive data workflows
-- 💼 **Career Preparation Fellow**, Management Leadership for Tomorrow: 18-month leadership & business strategy program
+- **Breakthrough Tech AI/ML Fellow** @ Cornell Tech: Building industry-level ML models and predictive data workflows
+- **Career Preparation Fellow**, Management Leadership for Tomorrow: 18-month leadership & business strategy program
 
 **Currently building:**
 - 🎵 [Iseehalo](https://github.com/pedrociadesosoo): A full-stack music marketplace (React Native, SQL, Supabase, Stripe) with a dual-monetized backend for scaling financial transactions
