@@ -3,14 +3,14 @@
 I'm a Computer Science student with a minor in Management Information Systems at RIT turning data into decisions. I use analytics to find what's true and product thinking to decide what to build next. Currently building toward a career as a **Product Manager grounded in data science and analytics**.
 
 **What I've been doing:**
-- 🔬 Research Intern @ **Brookhaven National Laboratory** — built simulation tools in Geant4 and ran EDA on large-scale detector datasets to inform experimental strategy
-- 📊 Data Analytics & Application Developer Intern — automated data pipelines (↓90% processing time) and shipped a data visualization platform (↑80% data accessibility)
-- 🤖 **Breakthrough Tech AI/ML Fellow** @ Cornell Tech — building industry-level ML models and predictive data workflows
-- 💼 **Career Preparation Fellow**, Management Leadership for Tomorrow — 18-month leadership & business strategy program
+- 🔬 Research Intern @ **Brookhaven National Laboratory**: Built simulation tools in Geant4 and ran EDA on large-scale detector datasets to inform experimental strategy
+- 📊 Data Analytics & Application Developer Intern: Automated data pipelines (↓90% processing time) and shipped a data visualization platform (↑80% data accessibility).
+- 🤖 **Breakthrough Tech AI/ML Fellow** @ Cornell Tech: Building industry-level ML models and predictive data workflows
+- 💼 **Career Preparation Fellow**, Management Leadership for Tomorrow: 18-month leadership & business strategy program
 
 **Currently building:**
-- 🎵 [Iseehalo](https://github.com/pedrociadesosoo) — a full-stack music marketplace (React Native, SQL, Supabase, Stripe) with a dual-monetized backend for scaling financial transactions
-- ⛪ Aquila — a database system for managing church membership and operations
+- 🎵 [Iseehalo](https://github.com/pedrociadesosoo): A full-stack music marketplace (React Native, SQL, Supabase, Stripe) with a dual-monetized backend for scaling financial transactions
+- ⛪ Aquila: A database system for managing church membership and operations
 - 📋 An application tracking system (in progress)
 
 **Toolbox:**
