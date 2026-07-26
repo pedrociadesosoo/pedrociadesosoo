@@ -9,7 +9,7 @@ I'm a Computer Science student with a minor in Management Information Systems at
 - **Career Preparation Fellow**, Management Leadership for Tomorrow: 18-month leadership & business strategy program
 
 **Currently building:**
-- 🎵 [Iseehalo](https://github.com/pedrociadesosoo): A full-stack music marketplace (React Native, SQL, Supabase, Stripe) with a dual-monetized backend for scaling financial transactions
+- 🎵 Iseehalo: A full-stack music marketplace (React Native, SQL, Supabase, Stripe) with a dual-monetized backend for scaling financial transactions
 - ⛪ Aquila: A database system for managing church membership and operations
 - 📋 An application tracking system (in progress)
 
